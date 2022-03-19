@@ -1,0 +1,10 @@
+test-output
+.settings
+.classpath
+.project
+target
+bin
+.idea
+.DS_Store
+allure-results
+allure-report
